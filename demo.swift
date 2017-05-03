@@ -9,3 +9,4 @@ class A {
 
 var a = A()
 print(a.name)
+append this line to the file demo.swift
